@@ -1,0 +1,2 @@
+Name of student is: abcd
+Age of student is: 20
